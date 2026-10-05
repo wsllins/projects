@@ -1,6 +1,7 @@
 name: AcademyX
 description: Sistema Web para gamificação e gestão de estudos, conectando alunos e professores em disciplinas de diferentes áreas.
 addresses:
+  preview: https://github.com/wsllins/academyx/blob/main/docs/prototypes/preview.png?raw=true
   repository: https://github.com/wsllins/academyx
   workflow: https://github.com/users/wsllins/projects/2
 category:
