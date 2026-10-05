@@ -1,6 +1,8 @@
 name: Educon
 description: Um sistema simples, leve e intuitivo para a gestão de turmas e controle acadêmico em escolas.
 addresses:
+  preview: https://github.com/leandrosudo/educon/blob/main/preview.png?raw=true
+  homepage: https://leandrosudo.github.io/educon
   repository: https://github.com/leandrosudo/educon
 category:
   type: subject

@@ -1,0 +1,22 @@
+name: Troca Gastos
+description: Um projeto de controle financeiro manual, focado em privacidade total sem conexões automáticas ou Open Finance.
+addresses:
+  preview: https://github.com/analauraepa/troca-gasto/blob/main/preview.png?raw=true
+  homepage: https://analauraepa.github.io/troca-gasto/
+  repository: https://github.com/analauraepa/troca-gasto.git
+category:
+  type: subject
+  subject: pw2-csbes-jp
+  period: 2026.2
+tags:
+  - javascript
+  - html
+  - css
+owners:
+  - 202614320009
+  - 202614320010
+  - 202614320005
+  - 202614320016
+  - 202524320014
+
+
